@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2015\Projects\NetSpeedMonitor\NetSpeedMonitor\bin\Debug\NetSpeedMonitor.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\NetSpeedMonitor\NetSpeedMonitor\obj\Debug\NetSpeedMonitor.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\NetSpeedMonitor\NetSpeedMonitor\obj\Debug\NetSpeedMonitor.nsm.resources
+c:\users\asus\documents\visual studio 2015\Projects\NetSpeedMonitor\NetSpeedMonitor\obj\Debug\NetSpeedMonitor.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\NetSpeedMonitor\NetSpeedMonitor\obj\Debug\NetSpeedMonitor.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\NetSpeedMonitor\NetSpeedMonitor\bin\Debug\NetSpeedMonitor.exe
+c:\users\asus\documents\visual studio 2015\Projects\NetSpeedMonitor\NetSpeedMonitor\bin\Debug\NetSpeedMonitor.pdb
+c:\users\asus\documents\visual studio 2015\Projects\NetSpeedMonitor\NetSpeedMonitor\obj\Debug\NetSpeedMonitor.exe
+c:\users\asus\documents\visual studio 2015\Projects\NetSpeedMonitor\NetSpeedMonitor\obj\Debug\NetSpeedMonitor.pdb
