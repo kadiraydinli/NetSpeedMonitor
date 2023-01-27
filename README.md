@@ -1,5 +1,5 @@
 # NetSpeedMonitor
-Internet speed monitoring program for Windows developed in C #
+Internet speed monitoring program developed with C# for Windows.
 
 The start position in the program is in the lower right corner. The mouse can be moved to the desired location.
 
